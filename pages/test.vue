@@ -1,7 +1,7 @@
 <template>
   <section class="container">
     <div>
-      <logo/>
+      <nyan/>
       <h1 class="title">
         nuxt_start test
       </h1>
